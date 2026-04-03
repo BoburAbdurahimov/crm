@@ -1,3 +1,5 @@
+"use client";
+
 import { StatCard } from "@/components/shared/stat-card";
 import { ActivityTimeline } from "@/components/shared/activity-timeline";
 import { StatusBadge } from "@/components/shared/status-badge";
